@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8270b07b-4214-4039-a6c2-b06c0763e0f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="ProjectId" id="1asaNCc3GDBEwa3wJvRmLWND8Hh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pro\GoPro\src\jvmgo\ch05\instructions\control" />
+      <recent name="D:\pro\GoPro\src\jvmgo\ch05\instructions\loads" />
+      <recent name="D:\pro\GoPro\src\jvmgo\ch05\instructions" />
+      <recent name="D:\pro\GoPro\src\jvmgo\ch04\rtda" />
+      <recent name="F:\pro\GoPro\src\jvmgo\ch02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pro\GoPro\src\jvmgo" />
+      <recent name="F:\pro\GoPro\src\jvmgo\ch03" />
+      <recent name="F:\pro\GoPro\src\jvmgo\ch02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build jvmgo/ch01" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$/ch01" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/ch01/main.go" />
+      <package value="jvmgo/ch01" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="jvmgo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ch02/main.go" />
+      <package value="F:\pro\GoPro\src\jvmgo\ch02\main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build jvmgo/ch01" />
+      <item itemvalue="Go Build.go build main.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build jvmgo/ch01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="39" key="#GOROOT" timestamp="1601274992292">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="39" key="#GOROOT/0.0.1280.760@0.0.1280.760" timestamp="1601274992292" />
+    <state x="511" y="248" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1599037484089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="248" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1599037484089" />
+    <state x="476" y="110" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1601454818658">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="476" y="110" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.760/2560.0.1440.860@0.0.1280.760" timestamp="1601454818658" />
+    <state x="460" y="234" key="#com.intellij.tools.ToolEditorDialog" timestamp="1601454821728">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="460" y="234" key="#com.intellij.tools.ToolEditorDialog/0.0.1280.760/2560.0.1440.860@0.0.1280.760" timestamp="1601454821728" />
+    <state x="457" y="154" key="FileChooserDialogImpl" timestamp="1603427124874">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="457" y="154" key="FileChooserDialogImpl/0.0.1280.760/2560.0.1440.860@0.0.1280.760" timestamp="1603427124874" />
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599037482661" />
+    <state x="508" y="271" width="268" height="217" key="Github.ShareDialog" timestamp="1603515375304">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="508" y="271" width="268" height="217" key="Github.ShareDialog/0.0.1280.760/2560.0.1440.860@0.0.1280.760" timestamp="1603515375304" />
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom" timestamp="1603099820813">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1603099820813" />
+    <state width="1238" height="190" key="GridCell.Tab.0.center" timestamp="1603099820813">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1603099820813" />
+    <state width="1238" height="190" key="GridCell.Tab.0.left" timestamp="1603099820813">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1603099820813" />
+    <state width="1238" height="190" key="GridCell.Tab.0.right" timestamp="1603099820813">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1603099820813" />
+    <state x="188" y="46" key="SettingsEditor" timestamp="1603515260310">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="188" y="46" key="SettingsEditor/0.0.1280.760/2560.0.1440.860@0.0.1280.760" timestamp="1603515260310" />
+    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603198924740">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="0" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.760@0.0.1280.760" timestamp="1603198924740" />
+    <state x="319" y="0" width="641" height="760" key="find.popup" timestamp="1603198010264">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="319" y="0" width="641" height="760" key="find.popup/0.0.1280.760/2560.0.1440.860@0.0.1280.760" timestamp="1603106469889" />
+    <state x="319" y="0" width="641" height="760" key="find.popup/0.0.1280.760@0.0.1280.760" timestamp="1603198010264" />
+    <state x="551" y="90" width="672" height="678" key="search.everywhere.popup" timestamp="1603508589056">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="551" y="90" width="672" height="678" key="search.everywhere.popup/0.0.1280.760/2560.0.1440.860@0.0.1280.760" timestamp="1603508589056" />
+    <state x="315" y="94" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1603198065615" />
+  </component>
+</project>
